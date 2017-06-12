@@ -1,2 +1,6 @@
 rainbow look like a colourful bow ;)
-there are many colours in it.
+there are many colours in it:
+red 
+yellow
+green
+...
